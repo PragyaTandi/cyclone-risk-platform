@@ -1,0 +1,9 @@
+{
+  "location": "Puri, Odisha",
+  "mean_risk": 0.637,
+  "max_risk": 0.847,
+  "min_risk": 0.005,
+  "flood_risk": 0.908,
+  "healthcare_risk": 0.230,
+  "built_up_exposure": 0.007
+}
